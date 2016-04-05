@@ -1,0 +1,4 @@
+
+Feature #1: Added due date, start and end time to the Item class for a more comprehensive list
+Feature #2: Allow multiple users to create their own to-do lists, using owner name to differentiate
+Feature #3: Save the list to a file, and load the list file if one already exists
